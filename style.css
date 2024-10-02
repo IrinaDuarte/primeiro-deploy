@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+figure img {
+  width: 150px;
+}
+
+section {
+  color: white;
+  width: 350px;
+  height: 250px;
+  border: solid 2px;
+  border-color: darkblue;
+  background-image: url("./img/1000_F_535649610_sevE1FZqHEQuBomOhP8OPGN5tz6qhd7H.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
